@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+PyMuPDF
+torch
+llama-cpp-python
+langchain
+langchain-community
+langchain-core
+chromadb
+huggingface_hub
+sentence-transformers
+requests
